@@ -1,5 +1,5 @@
 require("rspec")
-require("scrabble")
+require("rps")
 
 
 describe("String#scrabble") do
